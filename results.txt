@@ -1,0 +1,56 @@
+
+Running for 100 x 100
+
+Cache Vector took 0.031471 seconds
+Cache Enemy took 0.008996 seconds
+Cache Friend took 0.00903 seconds
+
+That's a total of 0.049497
+
+Running for 250 x 250
+
+Cache Vector took 0.388453 seconds
+Cache Enemy took 0.163971 seconds
+Cache Friend took 0.163332 seconds
+
+That's a total of 0.715756
+
+Running for 500 x 500
+
+Cache Vector took 3.24799 seconds
+Cache Enemy took 1.44266 seconds
+Cache Friend took 1.41606 seconds
+
+That's a total of 6.1067
+
+Running for 1000 x 1000
+
+Cache Vector took 27.0944 seconds
+Cache Enemy took 15.5941 seconds
+Cache Friend took 12.1418 seconds
+
+That's a total of 54.8303
+
+Running for 1200 x 1200
+
+Cache Vector took 47.9317 seconds
+Cache Enemy took 30.074 seconds
+Cache Friend took 23.7834 seconds
+
+That's a total of 101.789
+
+Running for 1400 x 1400
+
+Cache Vector took 81.3811 seconds
+Cache Enemy took 53.3191 seconds
+Cache Friend took 37.4581 seconds
+
+That's a total of 172.158
+
+Running for 1600 x 1600
+
+Cache Vector took 127.893 seconds
+Cache Enemy took 83.1503 seconds
+Cache Friend took 68.2588 seconds
+
+That's a total of 279.302

@@ -1,3 +1,9 @@
+/*
+Author: Mark Lambe
+Date: 24-09-14
+Mark@MarkLambe.com
+Use: For a blog Post for WithThunderousApplause.com, 'Taking Advantage of the Cache in C++'
+*/
 #ifndef CV_MATRIX_H
 #define CV_MATRIX_H
 

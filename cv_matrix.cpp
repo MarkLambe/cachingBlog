@@ -1,3 +1,9 @@
+/*
+Author: Mark Lambe
+Date: 24-09-14
+Mark@MarkLambe.com
+Use: For a blog Post for WithThunderousApplause.com, 'Taking Advantage of the Cache in C++'
+*/
 #include "cv_matrix.h"
 
 
@@ -12,7 +18,10 @@ cv_matrix::cv_matrix(int x, int y){
 }
 
 cv_matrix::~cv_matrix(){
-
+    for(int i = 0; i < data.size();i++){
+        vector<double>().swap(data[i]);// clear with reallocating 
+    }
+    vector< vector<double> >().swap(data);
 }
 
 void cv_matrix::print(){
